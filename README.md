@@ -6,6 +6,7 @@ This is a landing page for Miami Condo Kings — experts in sales and service in
 
 - [DEMO LINK](https://d-hubych.github.io/landing_page_miami/)
 
+
 TECHNOLOGIES:
 
 HTML
