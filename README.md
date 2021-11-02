@@ -9,20 +9,22 @@ This is a landing page for Miami Condo Kings — experts in sales and service in
 
 TECHNOLOGIES:
 
-HTML
-SCSS
-JavaScript
-BEM
-Flexbox
-Grid
+- HTML
+- SCSS
+- JavaScript
+- BEM
+- Flexbox
+- Grid
+
 Local development
 
 Dependencies
 
-Node v12.16.3 and higher
-NPM v6.14.4 and higher
+- Node v12.16.3 and higher
+- NPM v6.14.4 and higher
+
 Installing
 
-Fork and clone this repository
-Run npm install in your terminal
-Run npm start
+- Fork and clone this repository
+- Run npm install in your terminal
+- Run npm start
