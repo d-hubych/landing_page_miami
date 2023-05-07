@@ -1,30 +1,29 @@
-MIAMI LANDING PAGE
-
-This is a landing page for Miami Condo Kings — experts in sales and service in South Florida. Its mission is to help the clients to find the best real-estate investment opportunity in Miami Beach, Brickell, Sunny Isles, Aventura, Bal-Harbour.
-
-- [MOCKUP](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
-
+# Miami Landing Page pet-project
 - [DEMO LINK](https://d-hubych.github.io/landing_page_miami/)
 
+Implemented landing page according to [Figma design](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
 
-TECHNOLOGIES:
-
+## Technologies:
 - HTML
 - SCSS
 - JavaScript
-- BEM
+- BEM-methodology
 - Flexbox
 - Grid
 
-Local development
+## Adaptive layout:
+- Desktop (>= 992px)
+- Tablet (>= 688px)
+- Mobile (>= 320px)
 
-Dependencies
+
+## Local development
+Dependencies:
 
 - Node v12.16.3 and higher
 - NPM v6.14.4 and higher
 
 Installing
-
 - Fork and clone this repository
 - Run npm install in your terminal
 - Run npm start
