@@ -30,5 +30,10 @@
 
   &--cross {
     background-image: url(../images/cross.svg);
+    transition: transform $transition-duration;
+
+    &:hover {
+      transform: rotate(90deg);
+    }
   }
 }
